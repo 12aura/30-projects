@@ -4,9 +4,48 @@ body{
     justify-content: center;
     height: 100vh;
     align-items: center;
-    font-family: 'Courier New', Courier, monospace, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: cursive;
     background-color: rgb(155, 144, 232);
     font-weight: bolder;
     font-size: large;
 }
 
+.calendar_container
+{
+    background-color:whitesmoke;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 8px 8px 8px rgba(0, 0, 0, .3);
+}
+
+.month-name
+{
+    margin: 0%;
+    background-color: rgb(214, 52, 52);
+    color: antiquewhite;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.day-name
+{
+    font-size: 20px;
+    color: rgb(103, 100, 100);
+}
+
+.day-number
+{
+    font-size: 80px;
+    margin: 0;
+    font-weight: bolder;
+}
+
+.year
+{
+    margin: 20px 0;
+    font-size: 20px;
+    color: rgb(103, 100, 100);
+    font-weight: 500;
+}
