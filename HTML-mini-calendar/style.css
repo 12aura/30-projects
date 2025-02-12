@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(155, 144, 232);
+    font-weight: bolder;
+    font-size: large;
+}
+
