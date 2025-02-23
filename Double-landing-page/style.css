@@ -41,7 +41,7 @@ body {
   .split.left {
     position: absolute;
     left: 0;
-    background-color: bisque;
+    background-color: pink;
     background-image: url("https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-13-pro-family-hero?wid=940&hei=1112&fmt=png-alpha&.v=1631220221000");
     background-size: cover;
   }
